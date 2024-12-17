@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "org/litnhjacuzzi/tradehacker/mixin/MerchantScreenHandlerMixin": {
+      "merchant": "field_7863:Lnet/minecraft/class_1915;"
+    },
+    "org/litnhjacuzzi/tradehacker/mixin/MerchantScreenMixin": {
+      "syncRecipeIndex": "Lnet/minecraft/class_492;method_2496()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "org/litnhjacuzzi/tradehacker/mixin/MerchantScreenHandlerMixin": {
+        "merchant": "field_7863:Lnet/minecraft/class_1915;"
+      },
+      "org/litnhjacuzzi/tradehacker/mixin/MerchantScreenMixin": {
+        "syncRecipeIndex": "Lnet/minecraft/class_492;method_2496()V"
+      }
+    }
+  }
+}
